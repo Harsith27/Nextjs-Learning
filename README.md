@@ -46,3 +46,18 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 if i have hooks and usestate and all its client side rendered one 
 
 in server side rendering you dont use hoooks of hooks are used it is automatically converted to client side rendering
+
+enclose the folder with () to not make it a page as we do localhos.../dashboard
+
+
+
+## Task
+
+### 1.Usecase
+
+we have a page in react we convert it using nextjs using routes
+
+how we write api in nextjs and how to integrate both
+inside src folder we use api folder
+all routes will be in routes.ts
+we will write the api logic in that file
